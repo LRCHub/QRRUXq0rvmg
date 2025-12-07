@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Come Over",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2025-12-07T10:11:56.363986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Come Over - Acoustic Mixtape",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/01_Come_Over_-_Acoustic_Mixtape_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Why Don't You Come Over",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/02_Why_Don't_You_Come_Over_Garbage.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Blues Come over Me",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/03_The_Blues_Come_over_Me_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Come Over",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/04_Come_Over_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Can You Come Over",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/05_Can_You_Come_Over_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come Over",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/06_Come_Over_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Do You Wanna Come Over?",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/07_Do_You_Wanna_Come_Over_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come Over",
+      "artist": "Dagny",
+      "has_synced": true,
+      "path": "select/08_Come_Over_Dagny.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Come Over Now",
+      "artist": "Flor",
+      "has_synced": true,
+      "path": "select/09_Come_Over_Now_Flor.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lover, You Should've Come Over",
+      "artist": "Jeff Buckley",
+      "has_synced": true,
+      "path": "select/10_Lover,_You_Should've_Come_Over_Jeff_Buckley.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lover, You Should Have Come Over",
+      "artist": "Jamie Cullum",
+      "has_synced": true,
+      "path": "select/11_Lover,_You_Should_Have_Come_Over_Jamie_Cullum.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Come Over (Remix)",
+      "artist": "Jorja Smith feat. OBOY",
+      "has_synced": true,
+      "path": "select/12_Come_Over_(Remix)_Jorja_Smith_feat._OBOY.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Come Over - Radio Edit",
+      "artist": "The Internet",
+      "has_synced": false,
+      "path": "select/13_Come_Over_-_Radio_Edit_The_Internet.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Come Over (Radio Edit)",
+      "artist": "The Internet",
+      "has_synced": true,
+      "path": "select/14_Come_Over_(Radio_Edit)_The_Internet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Come Over",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_Come_Over_LE_SSERAFIM.txt"
+    }
+  ]
+}
